@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int num, size;
+    int num;
     printf("Enter any number from 1 to 5:\n");
     scanf("%d", &num);
     switch(num) 
